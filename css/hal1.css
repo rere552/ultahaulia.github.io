@@ -1,0 +1,29 @@
+body {
+    background: url(../img/bg.jpg);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+button {
+    margin-left: 600px;
+    height: 50px;
+    border-radius: 5px;
+    border: transparent;
+    background-color: rgba(59, 25, 25, 0.308);
+    color: white;
+}
+
+button:hover {
+    background-color: red;
+    cursor: pointer;
+
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
